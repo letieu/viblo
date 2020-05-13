@@ -126,7 +126,7 @@ header ul li a:hover{
     margin:232px 83px 0px 108px;
 }
 .m1 .container .right{
-    max-width: 690px;
+    width: 690px;
     height:1090px;
     float: left;
     position: relative;
